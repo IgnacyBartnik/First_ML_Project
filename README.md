@@ -1,5 +1,10 @@
 # Sports Car or Sedan
 
+## SETUP
+Please [download the model](https://drive.google.com/drive/folders/13BfoikRw271cG6c3vDMCwUhbTszZMTEq?usp=share_link), and make sure it is located in the repo as ```models/model.path```
+
+
+
 
 ## NON-TECHNICAL EXPLANATION 
 This repo contains a very quickly made model, which can distuinguish between sport cars and sedan cars. It uses the ResNet50, a convolutional neural network, which was fine tuned on images scraped from the internet.
