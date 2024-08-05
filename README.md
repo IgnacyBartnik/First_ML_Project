@@ -14,3 +14,4 @@ The ResNet50 is a large CNN. Its a highly trained image recognition model, which
 
 ## RESULTS
 The model performance was acceptable, but was likely impacted by the messy dataset, with lots of unclear images. 
+![first_ML_project](https://github.com/user-attachments/assets/7bb79a3c-680c-41e2-934c-70e814e76137)
